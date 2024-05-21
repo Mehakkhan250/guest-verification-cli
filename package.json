@@ -1,0 +1,19 @@
+{
+  "name": "@mehakkhan250/guest-verification-cli",
+  "version": "1.0.0",
+  "description": "This project is verify if user's entered name is present in today invited guests",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEHAK KHAN",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
